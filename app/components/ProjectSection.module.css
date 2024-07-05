@@ -1,0 +1,44 @@
+.container {
+    width: 100%;
+    height: 100vh;
+    padding: 0 36px;
+}
+
+.textSection {
+    /* position: absolute;
+    color: #000000;
+    transform: translateX(230%);
+    z-index: 1;
+    padding-top: 24px; */
+
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 24px;
+    font-size: 64px;
+}
+
+.showcaseSection {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+    padding-top: 48px;
+}
+
+.upperTextSection {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-top: 32px;
+    font-size: 32px;
+    text-align: center;
+}
+
+.circleElement {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    padding-top: 46px;
+}

@@ -1,0 +1,15 @@
+/* .headerContainer {
+    width: 100%;
+    background: #FF7D29;
+} */
+
+.animation {
+    transform: rotate(0);
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.animation:hover {
+    transform: rotate(10deg);
+}
+
